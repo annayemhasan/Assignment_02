@@ -1,0 +1,100 @@
+/* default css design */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+
+.container{
+    margin-bottom: 100px;
+}
+
+.pink-bg{
+    background-color: #81c6a0;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #FF136F;
+}
+
+.buy-now-button{
+    margin-top: 10px;
+    background-image: linear-gradient(45deg, #fb8fb8 0%, #FF136F 75%);
+    color: #fff;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 7px;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+} 
+
+.cat1{
+    background-color: #31dc86;
+}
+
+.cat2{
+    background-color: #2b73f5;
+}
+
+.cat3{
+    background-color: #ff00d4;
+}
+
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+}
+
+#subscribe{
+    height: 300px;
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+
+.contact-form{
+    border-radius: 9px;
+    padding: 14px 40px;
+    border: navajowhite;
+}
+
+footer{
+    text-align: center;
+}
+
+div#navbarNav {display: flex;justify-content: flex-end;}
+
+.card {
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    padding: 40px 0;
+    color: #fff;
+    font-size: 20px;
+}
